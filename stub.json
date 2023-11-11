@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create a Frida python script that hooks into a local macOS process to display the application's classes and methods, and then traces each method's responses. must hook to apps class only not system ones","md5":"f99310409d4aa5ff1a83dd75b91667a1"}]}
